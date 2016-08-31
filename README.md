@@ -1,5 +1,5 @@
 # jQueryWeather
-jquery weather service
+jquery weather service v1.0
 
 
 Supported Languages
